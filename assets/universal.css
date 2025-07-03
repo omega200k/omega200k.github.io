@@ -2,6 +2,6 @@
   padding-left:30px;
   padding-right:30px;
 }
-.nav-item-login{
+.nav-item-login > li{
   padding-left:70px;
 }
