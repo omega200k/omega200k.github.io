@@ -9,6 +9,6 @@ h1{
 font-family: Helvetica;
 }
 .navbar-nav > li{
-  padding-left:30px;
-  padding-right:30px;
+  padding-left:10px;
+  padding-right:10px;
 }
