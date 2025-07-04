@@ -15,3 +15,7 @@ font-family: Helvetica;
 .nav-item-login > li{
   padding-left:70px;
 }
+.carousel-item{
+  width: 900px;
+  height: auto;
+}
