@@ -5,7 +5,11 @@
 .nav-item-login > li{
   padding-left:70px;
 }
-
+.carousel-item img {
+  height: 50vh;
+  object-fit: cover;
+  object-position: center;
+}
 .carousel-caption {
   top: 50%;
   justify-content: center;
