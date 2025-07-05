@@ -5,16 +5,14 @@
 .nav-item-login > li{
   padding-left:70px;
 }
-body{
-  color: rgb(28, 8, 51);
-}
 .carousel-image {
             width:2000px;
-            height:2000px;
+            height: auto;
         }
 .carousel-caption {
+  padding-top; 20px;
   position: relative;
-  
+  color: rgb(28, 8, 51);
   transform: translate(-50%, -50%);
   text-align: center;
   width: 100%;
