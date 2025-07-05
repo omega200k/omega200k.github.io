@@ -5,10 +5,13 @@
 .nav-item-login > li{
   padding-left:70px;
 }
-.carousel-image {
-            width:1250px;
-            height: 900px;
-        }
+.carousel-item {
+  position: relative;
+  width: 100vh;
+  height: 100vh;
+  display: none;
+  width: 100%;
+}
 .carousel-caption {
   top: 50%;
   justify-content: center;
