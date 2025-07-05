@@ -12,4 +12,6 @@
 .carousel-caption {
   top: 0;
   justify-content: center;
+  color: #FFFFFF
+  size: 50px;
 }
