@@ -7,10 +7,8 @@
 }
 .carousel-item {
   position: relative;
-  width: 100vh;
-  height: 100vh;
-  display: none;
   width: 100%;
+  height: auto;
 }
 .carousel-caption {
   top: 50%;
