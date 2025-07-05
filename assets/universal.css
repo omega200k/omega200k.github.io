@@ -10,8 +10,8 @@
             height: auto;
         }
 .carousel-caption {
-  top: 0;
+  top: 50%;
   justify-content: center;
   color: #FFFFFF
-  size: 50px;
+  size: 80px;
 }
