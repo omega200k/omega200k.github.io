@@ -7,8 +7,8 @@
 }
 .carousel-item {
   position: absolute;
-  width: 2000px;
-  height: auto;
+  width: fit-content;
+  height: max-content;
 }
 .carousel-caption {
   top: 50%;
