@@ -10,9 +10,6 @@
             height: auto;
         }
 .carousel-caption {
-  position: absolute;
-  color: rgb(28, 8, 51);
-  text-align: center;
-  top: 50%;
-  left: 50%;
+  top: 0;
+  justify-content: center;
 }
