@@ -12,11 +12,10 @@
 }
 @media (min-device-width : 320px) and (max-device-width : 1824px){
 .carousel-caption {
-    font-color: black;
     justify-content: normal;
   bottom: 50%;
- font-size: 5vw;
-  font-size: 5vh;
+ font-size: 15vw;
+ 
   }
 }
 
