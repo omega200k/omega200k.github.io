@@ -4,6 +4,7 @@ backgorund-color: #1B1B3D;
 .navbar-nav > li{
   padding-left:30px;
   padding-right:30px;
+  color: white;
 }
 .nav-item-login > li{
   padding-left:70px;
