@@ -1,3 +1,7 @@
+.navbar{
+ background:transparent !important;
+  z-index: 99;
+}
 .navbar .btn{
   font-size: 20px;
   text-align: center;
