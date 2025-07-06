@@ -8,14 +8,15 @@
 .carousel-item img {
   height: 75vh;
   width: 100vw;
-  object-fill: contain;
+  object-fit: contain;
 }
-@media screen and (min-device-width : 320px) and (max-device-width : 1824px){
+@media screen and (max-device-width : 768px){
 .carousel-caption h5 {
-  bottom: 50%;
-  top: 50%;
- font-size: 10vw;
-  font-size:10vh;
+ font-size: 6vw;
+  }
+  .navbar-nav > li{
+padding-left: 10px;
+        padding-right: 10px;
   }
 }
 
