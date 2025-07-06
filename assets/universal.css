@@ -16,7 +16,7 @@
     font-color: black;
     justify-content: center;
   top: 50%;
-  font-size: 20em;
+  font-size: 5em;
   }
 }
 
@@ -25,7 +25,7 @@
     font-color: black;
     justify-content: center;
   top: 50%;
-  font-size: 20em;
+  font-size: 10em;
   }
 }
 
@@ -33,7 +33,7 @@
 .carousel-caption h5{
 justify-content: center;
   top: 50%;
-  font-size: 1000em;
+  font-size: 100em;
 }
 }
 
