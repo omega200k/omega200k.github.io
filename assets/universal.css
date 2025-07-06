@@ -1,6 +1,11 @@
 .navbar {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
   position: absolute;
-  z-index: 9999;
+  z-index: 99;
   background: transparent !important;
   border: none;
   box-shadow: none;
