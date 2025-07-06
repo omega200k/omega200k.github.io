@@ -13,7 +13,7 @@
 }
 
 .carousel-caption h5{
-  bottom: 50%;
+
   transform: translateY(50%);
   top: 50%;
   justify-content: center;
