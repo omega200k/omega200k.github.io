@@ -10,7 +10,7 @@
   width: 100vw;
   object-position: center;
 }
-@media screen and (min-device-width : 320px) and (max-device-width : 1824px){
+@media (min-device-width : 320px) and (max-device-width : 1824px){
 .carousel-caption {
     font-color: black;
     justify-content: normal;
