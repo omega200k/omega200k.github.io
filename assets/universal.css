@@ -8,7 +8,7 @@
 .carousel-item img {
   height: 75vh;
   width: 100vw;
-  object-fit: contain;
+  object-fit: fill;
 }
 @media screen and (max-device-width : 768px){
 .carousel-caption h5 {
