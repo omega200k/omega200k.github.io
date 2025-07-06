@@ -28,11 +28,8 @@
   text-align: center;
   transform:translateY(-50%);
   }
-  .navbar-nav > li{
-padding-left: 10px;
-        padding-right: 10px;
   }
-}
+
 @media screen and (max-width:900px) and (orientation: landscape){
 .carousel-caption h5 {
  font-size: 5em;
@@ -42,11 +39,9 @@ padding-left: 10px;
   bottom: auto;
   transform:translateY(-50%);
   }
-  .navbar-nav > li{
-padding-left: 10px;
-        padding-right: 10px;
+
   }
-}
+
 
   
 
