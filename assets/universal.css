@@ -1,6 +1,10 @@
 .navbar{
 background-color: #1B1B3D;
 }
+.nav-link{
+color: white;
+  background-color:white;
+}
 .navbar-nav > li{
   padding-left:30px;
   padding-right:30px;
