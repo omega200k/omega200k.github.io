@@ -10,6 +10,10 @@
   width: 100vw;
   object-fit: cover;
 }
+.carousel-caption h5{
+  font-size: 20em;
+  color: yellow;
+}
 @media screen and (max-device-width : 768px){
 .carousel-caption h5 {
  font-size: 6vw;
