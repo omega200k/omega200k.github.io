@@ -11,7 +11,7 @@
   object-fit: cover;
   object-position: center;
 }
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px){
+@media screen and (min-device-width : 320px) and (max-device-width : 480px){
 .carousel-caption h5{
     font-color: black;
     justify-content: center;
@@ -20,7 +20,7 @@
   }
 }
 
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px){
+@media screen and (min-device-width : 768px) and (max-device-width : 1024px){
   .carousel-caption h5{
     font-color: black;
     justify-content: center;
@@ -29,7 +29,7 @@
   }
 }
 
-@media only screen and (min-device-width : 1224px) and (max-device-width : 1824px){
+@media screen and (min-device-width : 1224px) and (max-device-width : 1824px){
 .carousel-caption h5{
 justify-content: center;
   top: 50%;
