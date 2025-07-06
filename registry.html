@@ -59,22 +59,9 @@ Account Registration
 <form name="Account Creation" action="signup.php">
 <div class="input group mb-3">
     Name:
-<input type="text" class="form-control" placeholder="Input your FULL Name" aria-label="Name">
+<input type="text" class="form-control" placeholder="Input your desired FULL name" aria-label="Name" id="userID">
 </div>
 
-<div class="input group mb-3">
-    Date of Birth:
-<input type="date" class="form-control" placeholder="Date of Birth:" aria-label="Date of Birth">
-</div>
-<div class="input group mb-3">
-    Phone Number:
-<input type="number" class="form-control" placeholder="Input your PHONE NUMBER" aria-label="phonenum">
-</div>
-
-<div class="mb-4">
-  <label for="exampleFormControlInput1" class="form-label">Email address</label>
-  <input type="email" class="form-control border-success" id="useremailaddress" placeholder="name@example.com">
-</div>
 <div class="row">
     <div class="form-group col-md-6">
         <label for="passwordcreation" class="form-label">Password</label>
@@ -86,7 +73,7 @@ Account Registration
     </div>
 </div>
 <div>
-<button type="button" class="btn btn-success"> CREATE ACCOUNT </button>
+<button type="button" class="btn btn-success" id="accountcreatebtn"> CREATE ACCOUNT </button>
 </div>
 </form>
 </div>
