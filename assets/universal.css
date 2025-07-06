@@ -1,5 +1,6 @@
 .navbar .btn{
   font-size: 20px;
+  text-align: center;
 }
 .carousel-item img {
   height: 75vh;
@@ -39,7 +40,6 @@
   bottom: auto;
   transform:translateY(-50%);
   }
-
   }
 
 
