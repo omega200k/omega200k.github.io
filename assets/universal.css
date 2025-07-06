@@ -10,11 +10,12 @@
   width: 100vw;
   object-position: center;
 }
-@media (min-device-width : 320px) and (max-device-width : 1824px){
-.carousel-caption {
+@media screen and (min-device-width : 320px) and (max-device-width : 1824px){
+.carousel-caption h5 {
     justify-content: normal;
   bottom: 50%;
  font-size: 15vw;
+  font-size:15vh;
  
   }
 }
