@@ -1,3 +1,7 @@
+.container{
+height: 200px;
+    width: 20px;
+}
 .navbar-inner {
     background:transparent !important;
 }
