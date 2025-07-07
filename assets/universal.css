@@ -1,6 +1,8 @@
 .container{
 height: 200px;
     width: 20px;
+    padding-right: 20em;
+    
 }
 .navbar-inner {
     background:transparent !important;
