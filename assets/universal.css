@@ -1,6 +1,3 @@
-body{
-margin-top: 70px;
-}
 .navbar{
 z-index: 9999;
     background:transparent !important;
@@ -11,9 +8,6 @@ z-index: 9999;
 .carousel-item{
 height: 75vh;
     width: 100vw;
-}
-.carousel{
-margin-top: 70px;
 }
 .carousel-caption {
   top: 50%;
