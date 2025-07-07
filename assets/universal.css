@@ -1,13 +1,13 @@
-.navbar{
-position: absolute;
-z-index: 99;
-}
 .navbar-inner {
     background:transparent !important;
 }
 .navbar .btn{
   font-size: 20px !important;
   text-align: center !important;
+}
+.carousel-item{
+height: 75vh;
+    width: 100vw;
 }
 .carousel{
 position: relative;
