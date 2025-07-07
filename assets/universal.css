@@ -1,9 +1,19 @@
+body{
+margin-top: 50px;
+}
+.navbar{
+position: absolute;
+z-index: 99;
+}
 .navbar-inner {
     background:transparent !important;
 }
 .navbar .btn{
   font-size: 20px !important;
   text-align: center !important;
+}
+.carousel{
+position: relative;
 }
 .carousel-item img {
     height: 70vh;
