@@ -1,21 +1,21 @@
 body{
-    background-color: black;
-    color: black;
+    background-color: black !important;
+    color: black !important;
 }
     
 .navbar-inner {
-    background:transparent;
+    background:transparent !important;
 }
 .navbar .btn{
-  font-size: 20px;
-  text-align: center;
+  font-size: 20px !important;
+  text-align: center !important;
 }
 .carousel-item img {
   height: 75vh;
   width: 100vw;
   object-fit: cover;
-  background-color:rgba(255,255,255,0.6);
-  background-blend-mode:lighten;
+  background-color:rgba(255,255,255,0.6) !important;
+  background-blend-mode:lighten !important;
 }
 .carousel-caption {
   top: 50%;
