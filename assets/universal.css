@@ -1,5 +1,5 @@
 .nav-link{
-color: white !important;
+mix-blend-mode: difference !important;
 }
 .navbar{
     background:transparent !important;
