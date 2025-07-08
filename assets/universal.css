@@ -8,8 +8,8 @@ color: white !important;
     background:transparent !important;
 }
 .carousel-item{
-    height: 70vh;
-    width: 100vw;
+    height: 70vh !important; 
+    width: 100vw !important;
 }
 .carousel-caption {
   top: 50%;
