@@ -8,13 +8,14 @@ color: white !important;
     background:transparent !important;
 }
 .carousel-img{
-height: 70vh;
+    height: 70vh;
     width: 100vw;
+    position: relative;
 }
-.carousel-item{
+.carousel-item img{
     height: 70vh !important; 
     width: 100vw !important;
-    object-fit: cover;
+    object-fit: cover !important;
 }
 .carousel-caption {
   top: 50%;
