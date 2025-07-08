@@ -7,11 +7,6 @@ color: white !important;
 .navbar-inner {
     background:transparent !important;
 }
-.carousel-img{
-    height: 70vh;
-    width: 100vw;
-    position: relative;
-}
 .carousel-item img{
     height: 70vh !important; 
     width: 100vw !important;
