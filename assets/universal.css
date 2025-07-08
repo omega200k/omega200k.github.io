@@ -7,9 +7,14 @@ color: white !important;
 .navbar-inner {
     background:transparent !important;
 }
+.carousel-img{
+height: 70vh;
+    width: 100vw;
+}
 .carousel-item{
     height: 70vh !important; 
     width: 100vw !important;
+    object-fit: cover;
 }
 .carousel-caption {
   top: 50%;
@@ -27,6 +32,7 @@ color: white !important;
     .carousel-item{
     height: 75vh;
     width: 100vw;
+    object-fit: cover;
 }
 .carousel-caption h5 {
  font-size: 3em;
@@ -39,11 +45,12 @@ color: white !important;
   }
 
 @media screen and (max-width:900px) and (orientation: landscape){
-.carousel-caption h5 {
     .carousel-item{
     height: 80vh;
     width: 100vw;
+    object-fit: cover;
 }
+.carousel-caption h5 {
  font-size: 5em;
   color: yellow;
   text-align: center;
