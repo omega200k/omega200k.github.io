@@ -2,14 +2,13 @@
 color: white !important;
 }
 .navbar{
-z-index: 99;
     background:transparent !important;
 }
 .navbar-inner {
     background:transparent !important;
 }
 .carousel-item{
-height: 75vh;
+    height: 80vh;
     width: 100vw;
 }
 .carousel-caption {
