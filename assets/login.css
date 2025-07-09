@@ -5,16 +5,26 @@
 .navbar-inner {
     background:transparent !important;
 }
+ .carousel-item{
+    height: 100vh;
+    width: 100vw;
+    object-fit: fill;
+}
 .carousel-item img{
     height: 100vh !important; 
     width: 100vw !important;
-    object-fit: cover !important;
+    object-fit: fill !important;
 }
 @media screen and (max-width:900px) and (orientation: portrait){
     .carousel-item{
     height: 100vh;
     width: 100vw;
-    object-fit: cover;
+    object-fit: fill;
+}
+    .carousel-item img{
+    height: 100vh !important; 
+    width: 100vw !important;
+    object-fit: fill !important;
 }
   }
 
@@ -22,7 +32,13 @@
     .carousel-item{
     height: 100vh;
     width: 100vw;
-    object-fit: cover;
+    object-fit: fill;
+}
+    .carousel-item img{
+    height: 100vh !important; 
+    width: 100vw !important;
+    object-fit: fill !important;
+}
 }
 
 
