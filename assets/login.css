@@ -5,6 +5,13 @@
 .navbar-inner {
     background:transparent !important;
 }
+.content-wrapper{
+z-index: 99;
+display: flex;
+width: 100vw;
+height: 100vh;
+position: relative;
+}
 .carousel {
 position: fixed;
 height: 100vh;
@@ -14,11 +21,13 @@ z-index: 0;
  .carousel-item{
     height: 100vh;
     width: 100vw;
+     z-index: 0;
     object-fit: cover !important;
 }
 .carousel-item img{
     height: 100vh !important; 
     width: 100vw !important;
+    z-index: 0;
     object-fit: fill !important;
 }
 @media screen and (max-width:900px) and (orientation: portrait){
