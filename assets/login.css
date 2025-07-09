@@ -5,10 +5,16 @@
 .navbar-inner {
     background:transparent !important;
 }
+.carousel {
+position: fixed;
+height: 100vh;
+width: 100vw;
+z-index: 0;
+}
  .carousel-item{
     height: 100vh;
     width: 100vw;
-    object-fit: fill;
+    object-fit: cover !important;
 }
 .carousel-item img{
     height: 100vh !important; 
