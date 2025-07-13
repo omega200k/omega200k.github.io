@@ -2,6 +2,10 @@
  width: 35vw;
 height: 20vh;
 }
+.card{
+ width: 35vw;
+height: 20vh;
+}
 body{
 background-size: cover;
 background-color:rgba(255,255,255,0.6);
