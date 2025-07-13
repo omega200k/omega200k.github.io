@@ -11,7 +11,7 @@ border: 2px solid red;
 background-size: cover;
 background-color:rgba(255,255,255,0.6);
 background-blend-mode:lighten;
-background-image:url(https://cdn.pixabay.com/photo/2019/04/05/09/33/the-eiffel-tower-4104637_1280.jpg);
+background-image:url('https://cdn.pixabay.com/photo/2019/04/05/09/33/the-eiffel-tower-4104637_1280.jpg');
 }
 
 
