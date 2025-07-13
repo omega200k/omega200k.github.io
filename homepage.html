@@ -56,13 +56,26 @@
   </div>
 </div>
         <div class="container mt-5">
-            <div class="card shadow rounded-4 p-4 bg-transparent">
+            <div class="card shadow rounded-4 p-4">
             <select class="form-select" name="origin" required>
   <option selected> Place of Origin </option>
   <option value="1">Manila</option>
   <option value="2">Cebu</option>
   <option value="3">Davao</option>
 </select>
+                 <select class="form-select" name="origin" required>
+  <option selected> Destination </option>
+  <option value="1">Cebu</option>
+  <option value="2">New York, United States</option>
+<option value="3">Sydney, Australia</option>
+<option value="4">Narita, Japan</option>
+<option value="5">Taipei, Taiwan</option>
+</select>
+                <label for="departure"> Departure Date: </label>
+                <input type="date" id="departure" name="departure">
+                
+                <label for="return"> Return Date: </label>
+                <input type="date" id="return" name="return">
             </div>    
         </div>
     </body>
