@@ -7,6 +7,7 @@ height: 20vh;
 height: 20vh;
 }
 body{
+border: 2px solid red;
 background-size: cover;
 background-color:rgba(255,255,255,0.6);
 background-blend-mode:lighten;
