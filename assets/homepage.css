@@ -55,7 +55,9 @@
   }
 .card{
 align-items: stretch;
-    flex-direction: column;
+flex-direction: column;
+justify-content: center;
+justify-items: center;
 }
 .container{
 position: absolute;
