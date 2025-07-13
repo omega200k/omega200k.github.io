@@ -8,3 +8,7 @@ function login () {
         alert('Invalid username or password, try user: admin, pass: 1234');
     }
 }
+
+function book () {
+     alert('You have booked successfully.');
+}
