@@ -54,13 +54,12 @@
   }
   }
 .card {
-    background-color: rgba(255, 255, 255, 0.9);
     max-width: 600px;
     width: 100%;
 }
 .container {
 position: absolute;
-top: 50%;
+bottom: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
 display: flex;
