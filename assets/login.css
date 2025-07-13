@@ -9,14 +9,14 @@ justify-content: center;
 }
 .container{
 width: 50vw;
-height: 100vh;
+height: 85vh;
 justify-items: center;
 align-items: center;
 }
 @media screen and (max-width:900px) and (orientation: portrait){
   .container{
 width: 70vw;
-height: 100vh;
+height: 85vh;
 justify-items: center;
 align-items: center;
 }
@@ -29,7 +29,7 @@ align-items: center;
 @media screen and (max-width:900px) and (orientation: landscape){
    .container{
 width: 60vw;
-height: 90vh;
+height: 85vh;
 justify-items: center;
 align-items: center;
 }
