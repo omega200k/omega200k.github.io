@@ -8,8 +8,8 @@ background-image:url('https://cdn.pixabay.com/photo/2019/04/05/09/33/the-eiffel-
 justify-content: center;
 }
 .container{
-width: 35vw;
-height: 40vh;
+width: 50vw;
+height: 70vh;
 justify-items: center;
 align-items: center;
 }
@@ -19,7 +19,7 @@ align-items: center;
   }
   .container{
 width: 70vw;
-height: 50vh;
+height: 70vh;
 justify-items: center;
 align-items: center;
 }
@@ -32,12 +32,12 @@ align-items: center;
 @media screen and (max-width:900px) and (orientation: landscape){
    .container{
 width: 60vw;
-height: 50vh;
+height: 80vh;
 justify-items: center;
 align-items: center;
 }
     .card{
-    height: 40vh;
+    height: 70vh;
     width: 70vw;
     object-fit: cover;
 }
