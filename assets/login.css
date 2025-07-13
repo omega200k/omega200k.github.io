@@ -1,4 +1,13 @@
-
+.container{
+ width: 35vw;
+height: 40vh;
+}
+body{
+background-size: cover;
+background-color:rgba(255,255,255,0.6);
+background-blend-mode:lighten;
+background-image:url(/assets/images/eiffel-tower-5673391_1280.jpg);
+}
 
 
 
