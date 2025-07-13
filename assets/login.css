@@ -19,10 +19,31 @@ max-width: 400px;
 width: 100%;
 justify-content: center;
 }
-.input{
-max-width: 500px;
-position: relative;
+@media screen and (max-width:900px) and (orientation: portrait){
+  .container{
+width: 50vw;
+height: 20vh;
+justify-items: center;
+align-items: center;
 }
+    .card{
+    height: 25vh;
+    width: 50vw;
+}
+  }
 
+@media screen and (max-width:900px) and (orientation: landscape){
+   .container{
+width: 50vw;
+height: 20vh;
+justify-items: center;
+align-items: center;
+}
+    .card{
+    height: 30vh;
+    width: 70vw;
+    object-fit: cover;
+}
+  }
 
 
