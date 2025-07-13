@@ -1,6 +1,8 @@
 .container{
  width: 35vw;
 height: 20vh;
+justify-content: center;
+ align-items: center;
 }
 .card{
  width: 35vw;
