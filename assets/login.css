@@ -1,27 +1,28 @@
 body{
 height: 100vh;
 width: 100vw;
-background-position: center !important;
 background-size: cover;
 background-color:rgba(255,255,255,0.6);
 background-blend-mode:lighten;
 background-image:url('https://cdn.pixabay.com/photo/2019/04/05/09/33/the-eiffel-tower-4104637_1280.jpg');
-display: flex;
+justify-content: center;
 }
 .container{
 width: 35vw;
 height: 20vh;
+justify-items: center;
+align-items: center;
 }
 .card{
 background-color: rgba(255, 255, 255, 0.9);
 max-width: 400px;
 width: 100%;
+justify-content: center;
 }
 .input{
-max-width: 100px;
+max-width: 500px;
+position: relative;
 }
 
 
 
-
-  
