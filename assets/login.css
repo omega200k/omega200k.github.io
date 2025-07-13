@@ -1,6 +1,7 @@
-.navbar-brand{
+.navbar-brand img{
 width: 10vw;
 height: 10vh;
+object-fit: contain;
 }
 body{
 height: 100vh;
