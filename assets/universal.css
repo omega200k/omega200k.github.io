@@ -55,10 +55,10 @@
   }
 .container{
 position: absolute;
-top: 0%;
+top: 50%;
 bottom: 0%;
 justify-content: center;
-align-items: flex-start;
+align-items: center;
 justify-items: center;
 }
 
